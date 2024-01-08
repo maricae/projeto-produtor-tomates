@@ -3,7 +3,7 @@
 #### Contexto da Análise:
 Um produtor de tomates estipulou sua meta de faturamento no valor de R$ 3 Milhões para o segundo trimestre de 2023. Com isso, sua estratégia é aumentar o número de clientes e ele precisa saber qual o aumento necessário para alcançar sua meta.
 
-Para encontrar esse percentual precisamos saber qual seria o número médio de tomates que seus clientes compram diariamente. Além disso, existem clientes que compram para consumo próprio, clientes que compram para revenda (Supermercados) e restaurantes.
+Para encontrar esse percentual precisamos saber qual seria o número médio de tomates que seus clientes compram. Além disso, existem clientes que compram para consumo próprio, clientes que compram para revenda (Supermercados) e restaurantes.
 
 Porém, o produtor acredita que a maioria dos seus clientes são restaurantes (não existe uma classificação no banco de dados), mas mesmo assim sabe-se que existem grandes mercados parceiros que apresentam uma disparidade muito grande em relação aos outros clientes. Essas grandes redes classificaremos como Outliers e que podem atrapalhar nossa análise causando viés na média.
 
