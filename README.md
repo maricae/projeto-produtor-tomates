@@ -1,4 +1,4 @@
-# Remoção de Outliers (Produtor de Tomate)
+# Limpeza de Dados - Remoção de Outliers
 ## Detecção e Remoção de Outliers Univariados: Um Exemplo Prático
 #### Contexto da Análise:
 Um produtor de tomates estipulou sua meta de faturamento no valor de R$ 3 Milhões para o segundo trimestre de 2023. Com isso, sua estratégia é aumentar o número de clientes e ele precisa saber qual o aumento necessário para alcançar sua meta.
